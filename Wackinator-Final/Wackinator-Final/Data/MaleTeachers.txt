@@ -1,0 +1,16 @@
+no
+mixed
+yes
+no
+yes
+black
+no
+yes
+yes
+black
+no
+no
+yes
+mixed
+yes
+no
